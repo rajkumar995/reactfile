@@ -3,7 +3,8 @@ import React from 'react'
 function App() {
   return (
   <>
-  <div className='text-red-500'>helfbglo</div>
+  <div className='text-red-500'>hello</div>
+    <div>world</div>
   </>
   )
 }
